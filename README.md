@@ -56,6 +56,10 @@ The `data/custom_data/master.csv` dataset contains all relevant data, then furth
 | federal_tax_burden                | Aggregated Federal Tax Burden (weighted)  | IRS SOI                          | [Link](https://www.irs.gov/downloads/irs-soi?page=17) |
 | Gini                              | Aggregated Gini Coefficient (weighted)    | IRS SOI                          | [Link](https://www.irs.gov/downloads/irs-soi?page=17) |
 
+## ER Diagram
+![ER Diagram](./img/alaska_subsistence_dataset_ER_diagram_dark.png)
+
+
 ## Citation
 
 If you use this repository or parts of it, please cite it as:
