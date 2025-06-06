@@ -56,5 +56,11 @@ The `data/custom_data/master.csv` dataset contains all relevant data, then furth
 | federal_tax_burden                | Aggregated Federal Tax Burden (weighted)  | IRS SOI                          | [Link](https://www.irs.gov/downloads/irs-soi?page=17) |
 | Gini                              | Aggregated Gini Coefficient (weighted)    | IRS SOI                          | [Link](https://www.irs.gov/downloads/irs-soi?page=17) |
 
+## Citation
+
+If you use this repository or parts of it, please cite it as:
+
+> [Nicolò Zorzetto]. *Subsistence Economic Analysis of Alaskan Communities*. 2025. GitHub Repository. [https://github.com/NicoloZorzetto/alaska_subsistence_economic_analysis](https://github.com/NicoloZorzetto/alaska_subsistence_economic_analysis)
+
 
 For license details, see the `LICENSE` file.
