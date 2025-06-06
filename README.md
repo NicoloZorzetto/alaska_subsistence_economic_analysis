@@ -1,7 +1,8 @@
 # alaska_subsistence_economic_analysis
 Data and statistical analysis of substinence activities across Alaska
 
-All code in this repository is released under GNU License.
+All code in this repository is released under the GNU General Public License v3.0.
+
 Data remains the property of the respective US agencies and is used here under public domain or open data licenses, when applicable.
 
 ## Datasets
@@ -54,3 +55,6 @@ The `data/custom_data/master.csv` dataset contains all relevant data, then furth
 | local_tax_burden                  | Aggregated Local Tax Burden (weighted)    | IRS SOI                          | [Link](https://www.irs.gov/downloads/irs-soi?page=17) |
 | federal_tax_burden                | Aggregated Federal Tax Burden (weighted)  | IRS SOI                          | [Link](https://www.irs.gov/downloads/irs-soi?page=17) |
 | Gini                              | Aggregated Gini Coefficient (weighted)    | IRS SOI                          | [Link](https://www.irs.gov/downloads/irs-soi?page=17) |
+
+
+For license details, see the `LICENSE` file.
