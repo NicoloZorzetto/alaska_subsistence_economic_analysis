@@ -1,5 +1,5 @@
 # alaska_subsistence_economic_analysis
-Data and statistical analysis of substinence activities across Alaska
+Data and statistical analysis of substinence activities across Alaska.
 
 All code in this repository is released under the GNU General Public License v3.0.
 
